@@ -7,6 +7,7 @@ DRFjwt is a framework designed for rapidly launching new Django REST Framework p
 - **Django 5.1**, **Django REST Framework 3.12**, and **Python 3.8** support
 - **Custom user model** for extended user profiles
 - **JWT-based authentication** for secure API access
+- **Automatic addition of access and refresh tokens to cookies** for seamless authentication
 - User management: **signup**, **login**, and **logout** endpoints
 - **Djoser user endpoints** via `djoser` — check the [Djoser documentation](https://djoser.readthedocs.io/en/latest/index.html) for details
 - **virtualenv** for virtual environment management
@@ -54,4 +55,3 @@ For more details on user authentication and endpoint setup, check the [Djoser do
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
