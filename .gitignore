@@ -1,0 +1,46 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Django migrations
+*/migrations/__init__.py
+*/migrations/*.py
+*/migrations/*.pyc
+
+# Database
+db.sqlite3
+*.sqlite3
+
+# Static files
+/static/
+/media/
+
+# Pytest
+.cache
+pytest-debug.log
+
+# IDE settings
+.idea/
+.vscode/
+
+# Environment variables
+.env
+*.env
+
+# Logs
+*.log
+
+# Other files
+*.DS_Store
+*.bak
+*.swp
+*.swo
