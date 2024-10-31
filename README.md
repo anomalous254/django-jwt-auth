@@ -2,6 +2,8 @@
 
 DRFjwt is a framework designed for rapidly launching new Django REST Framework projects with JWT authentication enabled using Djoser. It includes essential features like a custom user model, user management (login/logout/signup), and more for quick project setup.
 
+![logo](https://github.com/anomalous254/drf-jwt/blob/main/logo.jpg)
+
 ## Features
 
 - **Django 5.1**, **Django REST Framework 3.12**, and **Python 3.8** support
